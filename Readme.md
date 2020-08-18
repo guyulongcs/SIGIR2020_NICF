@@ -3,7 +3,7 @@ Neural Interactive Collaborative Filtering ( SIGIR 2020)
 
 # NICF:
 
-   NICF_code is the code for the paper "[Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3397271.3401181)", which is published in SIGIR 2020. 
+   NICF_code is the code for our paper "[Neural Interactive Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3397271.3401181)", which is published in SIGIR 2020. 
 
    The code is also available at https://github.com/zoulixin93/NICF.
 
